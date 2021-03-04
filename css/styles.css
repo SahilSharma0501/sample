@@ -1,0 +1,37 @@
+body {
+  background-color : #eaf6f6;
+}
+
+hr {
+  background-color: transparent;
+  border-style: none;
+  border-top-style: dotted;
+  width: 5%;
+  border-color : grey;
+  border-width : 7px;
+}
+.journey
+{
+  color: blue;
+}
+.mydp
+{
+  border-radius: 40%;
+}
+h3
+{
+  color: brown;
+}
+
+p
+{
+  color : crimson;
+}
+h1
+{
+  color : firebrick;
+}
+a
+{
+  color: lawngreen;
+}
